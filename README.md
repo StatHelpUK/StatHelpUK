@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @StatHelpUK
+- 👀 I’m interested in developing tools to help medical students and doctors learn statistics (with R).
+- 📫 https://twitter.com/StatHelpUK
